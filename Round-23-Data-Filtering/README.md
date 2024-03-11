@@ -19,4 +19,3 @@ window.addEventListener('DOMContentLoaded', function(){
 
 **Step 6:** When the button is press, revert back to only showing the first ten results in the JSON file.
 
-=
