@@ -9,7 +9,10 @@ There are three JSON files, dwarves.json, elves.json and humans.json. The <selec
 
 For example, if the user selects "Elves", they should see the following:
 
+<br>
+<br>
 <img src="./image.png" alt="sample" width="550"/>
+
 
 Hints:
 
