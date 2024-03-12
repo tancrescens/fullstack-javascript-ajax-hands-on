@@ -8,4 +8,4 @@ Expected Output
 
 <br>
 <br>
-![alt text](image.png)
+<img src="./image.png" alt="sample" width="550"/>
