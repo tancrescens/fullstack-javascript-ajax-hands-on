@@ -1,6 +1,6 @@
 Follow the setup steps below:
 
-1. Add axios to `index.html`
+1. Add axios to `index.html` : be sure to include `<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.2/axios.js" integrity="sha512-vHNHepeQWwAggJlhEk932jRS5sNdn/Nn4F+w4TpXW5dA+04qnd3e7YpfXo6auWhFG6z3FVhmScG4ovtF+qYeZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>` in your `index.html`
 
 2. Using `axios.get()`, load in the content of the file from: 
 
