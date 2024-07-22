@@ -7,7 +7,7 @@
 
 3. Display **only** the first name, last name and the different parts of address in `<body>` when the button is pressed. Your output should look something like this:
 
-
+____
 <ul>
   <li>First Name: Rack</li>
   <li>Last Name: Jackon</li>
