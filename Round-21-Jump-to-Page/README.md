@@ -1,4 +1,4 @@
-There are three html files: `page1.html`, `page2.html`, and `page3.html`. There are some content in  to differenate them frome ach other,
+There are three html files: `page1.html`, `page2.html`, and `page3.html`. There are some content in the respective pages that differentiates them.
 
 1. **Include** your own **axios** in `index.html`
 
